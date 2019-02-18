@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Colorful creature</title>
+        <style>
+        
+        body { background-color: rgb(146, 252, 178) }
+            
+        p { color: rgb(85, 0, 255) }
+        
+        h1 { color: rgb(85, 0, 255) }    
+            
+        </style>
+        
+    </head>
+   
+   <body>
+        
+        <h1>The coolest creature</h1>
+        
+        <img src= "https://www.kasandbox.org/programming-images/avatars/aqualine-tree.png" alt= "Blue Dragon Mythical Creature Avatar" width= "160">
+        
+        <p>The <em>Aqualine</em> is awesome because <strong>it's a flying dragon with a mohawk</strong>.</p>
+        
+    </body>
+</html>
